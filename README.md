@@ -37,4 +37,27 @@ ___________________________________________________
 #### [Task29-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8584012491a80b4edbf3db5c58a6710ca392620e) Выводим квадрат числа # 0140.
 ______________________________________________________________
 ### Level#2 Знакомство с Java: переменные, методы и классы:
-#### [Task30-->]
+#### [Task30-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9af855aedd49a3fea7e555d192ac6f6641161d5f) Считаем длину окружности # 0129.
+#### [Task31-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c68963604114e5688e6e70e4d9b620cf35739e38) Наш первый конвертер! # 0130.
+#### [Task32-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f1dc8ae7facd0435056f7b21749c75579540cb40) Да хоть на Луну! # 0136.
+#### [Task33-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f9b1b868b3339714ede373fe7e613fb7067e2132) Реализуем метод print # 0201.
+#### [Task34-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2712f9c2f994e1d06af8d85334443e20d75fd93e) Откуда берутся Person? # 0202.
+#### [Task35-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3664a096060345c0992daf8eba6f2d95051d53c5) О семейных отношениях # 0204.
+#### [Task36-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5b5f44a4a54e1c026215d37fe870f5e322aafd92) Прибавка к зарплате # 0205.
+#### [Task37-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f6b26b837ae478a8e7bbfc783d7e1ae72b3f3d05) Кусочек калькулятора # 0207.
+#### [Task38-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a2655e9a628bfe586d04b081a5feb185aa8f126e) Одного кота нам мало # 0208.
+#### [Task39-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/261c919e4e11f8885e1f4c048326e7a445397d43) Макс, Белла и Джек # 0209.
+#### [Task40-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7ef4685a70c5743b34ffbd7ef22e794646f71490) Необъективная реальность # 0210.
+#### [Task41-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/27ce62b5231ae87ac4cfab7392e0dd267725b18b) Самое нужное число # 0211.
+#### [Task42-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3d023134c03b269a0721a8a0cade8928eac08646) Великолепная восьмерка # 0212.
+#### [Task43-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/bc66d099e96b2d81d4eca128ba38be45e2f64409) Питомцам нужны люди # 0213.
+#### [Task44-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a3727a9a421f0c9c3cc029bf38645383297fce6f) Минимум двух чисел Ӏ Java Syntax: 2 уровень, 8 лекция 7 # 0214.
+#### [Task45-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/765221af85b25fe673d15f392e13a93484e49606) Минимум трёх чисел # 0216.
+#### [Task46-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cb652d1f51b55fdf2bdde259894542dd218c3bf4) Минимум четырех чисел # 0217.
+#### [Task47-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0dd404b366612b86f5876a8981c034f7a1d6cc43) Повторенье-мать # 0218.
+#### [Task48-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0cc23f212610f22923e0cebf6c9d7aef6410366f) Печатаем трижды # 0219.
+_______________________________________________________________
+### Level#3 Первая программа: ввод с клавиатуры, работа в IDE:
+#### [Task49-->]()
+#### [Task50-->]()
+
