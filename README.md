@@ -58,6 +58,33 @@ ______________________________________________________________
 #### [Task48-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0cc23f212610f22923e0cebf6c9d7aef6410366f) Печатаем трижды # 0219.
 _______________________________________________________________
 ### Level#3 Первая программа: ввод с клавиатуры, работа в IDE:
-#### [Task49-->]()
-#### [Task50-->]()
+#### [Task49-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/028d51f81cecd3c334a002d932c98750fa80b181) Полнометражная картина # 0131.
+#### [Task50-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/89164edac974ac2c485a13c2363168593036b61c) Сумма цифр трехзначного числа # 0132.
+#### [Task51-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/07a93357fe0cb2067613c4dc7453e00cfa7e9067) Не думать о секундах… # 0133.
+#### [Task52-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/90007144395bf62752306b3d76292c10bc4b2d85) Набираем воду в бассейн # 0134.
+#### [Task53-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fc9ed2b34cf521fd639dbd796d6eea46c4157420) Делиться полезно # 0301.
+#### [Task54-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/796e77d406c171a2c9c3140cb60b24261e84b0a5) Немедленно в печать # 0302.
+#### [Task55-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/23dc7e3941e11568cb362485a871e7eee92c1f48) Обмен валют # 0303.
+#### [Task56-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5ea17ab8576be319195a6efd544f0733103786ad) Задача на проценты # 0304.
+#### [Task57-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e741ed8f8bd266c8b2fdd3e11fffabf9379ca226) Я так давно родился # 0305.
+#### [Task58-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/48058131e7c2b1de9ed9d654e1d758d4eb5612f0) Головоломка со скобками # 0306.
+#### [Task59-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c7f69eb3e65c47e747e60a1cf63540096ef636c5) Привет StarCraft! # 0307.
+#### [Task60-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9fbf10bb40b67cae52eea3f6e18a9ae7305cdc85) Произведение 10 чисел # 0308.
+#### [Task61-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/78f3d0c861cf3f50550032257470243508645704) Сумма 5 чисел # 0309.
+#### [Task62-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0e30f94cd4f8bfe0da0e34995d6593287757c751) Печатаем строки # 0311.
+#### [Task63-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d013231fa6b8a7f0d21441a5f23a0ebab6eac79c) Конвертируем время # 0312.
+#### [Task64-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/71b3ae7448302d076197ea352d2c9682683ce373) Мама мыла раму # 0313.
+#### [Task65-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/97eedc8c8d56d914c779ec19891846fd8d23dcaf) Таблица умножения # 0314.
+#### [Task66-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d900d22c8e117d5096f94d05ae3be2b494b82dbb) Каждый охотник желает знать… # 0315.
+#### [Task67-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e6376c3bbfa948a548a16498b3cc0233650fb464) Экранирование символов # 0316.
+#### [Task68-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ed7639257aa99bbd43ac9fd805274cd4fcf9b1ff) Путь самурая # 0317.
+#### [Task69-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5fcb28071d0147e7d59b97abeb2b10d56a54930c) План по захвату мира # 0318.
+#### [Task70-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4b7df1e474448fd8616e6e520d7a963582c0e8c7) Предсказание на будущее # 0319.
+#### [Task71-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9b75ec9ef43568b09e4d9996aef85871bda4345e) Скромность украшает программиста # 0320.
+#### [Task72-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ee88a3d1febd395d33854b2d4da996426713cb6b) Большая и чистая # 0322.
+#### [Task73-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c6d2e5fc91bf2bb841e18b444e28d5a9a792a08b) Меркантильные намерения # 0324.
+#### [Task74-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9a6696d1d44b6119084fb9c45d65a06704b1c3fb) Финансовые ожидания # 0325.
+_______________________________________________________________
+### Level#4 Знакомство с ветвлениями и циклами:
+#### [Task75-->]()
 
