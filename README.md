@@ -86,5 +86,51 @@ _______________________________________________________________
 #### [Task74-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9a6696d1d44b6119084fb9c45d65a06704b1c3fb) Финансовые ожидания # 0325.
 _______________________________________________________________
 ### Level#4 Знакомство с ветвлениями и циклами:
-#### [Task75-->]()
-
+#### [Task75-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6f278c5ebf41ab1a469d2c812707b63d36449e3b) Мне не подходит этот возраст… # 0401.
+#### [Task76-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c0c21fd490d5b52ba15112ac83674e8f05e09f5d) Цена яблок # 0402.
+#### [Task77-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1e4d4b21344d060b609334c3986c59d867d17559) Как зовут кота? # 0403.
+#### [Task78-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cfff59b930ccb5cbc04a2d3b3ace4a4b9fada77f) Учет котов # 0404.
+#### [Task79-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f42697bd96af489ae5ed341e33627a8137961a6b) Задаем количество котов # 0405.
+#### [Task80-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a0be9c04f762c09d54164f592e0bd38f019f46db) Программа учета имен # 0406.
+#### [Task81-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cabed171b1a626a83c579ca354a087530546c7b2) Кошки во Вселенной # 0407.
+#### [Task82-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6499be7733a0be1017591be098281af8b8a655bb) Хорошо или плохо? # 0408.
+#### [Task83-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2fc0caacc7320e5cc71bacbcac0ed22eec8dbfe0) Ближайшее к 10 # 0409.
+#### [Task84-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e0b69e7a411951e11d2c7ba9b52d8747e9fb92ad) Попадём-не-попадём # 0410.
+#### [Task85-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6d71391aacc70d5e42643d382faf53c2f858f3c0) Времена года на Терре # 0411.
+#### [Task86-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/15a5c9ccd415adfe93b34a708ac42d2d4e5622e0) Положительное и отрицательное число # 0412.
+#### [Task87-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e63efd2eb8cd3f1a4fc7a059dc48d531831b6c1b) День недели # 0413.
+#### [Task88-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e2793faea6abab97c5426997e57de2cfab801b03) Количество дней в году # 0414.
+#### [Task89-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1d2ef2e72c148fbfce7f2348e10903556b3003ee) Правило треугольника # 0415.
+#### [Task90-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/af9d942a8243eafef1ba4eb1a0a6dec594733745) Переходим дорогу вслепую # 0416.
+#### [Task91-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8487c366edf7055da855ed3f5945b576dcd64937) Существует ли пара? # 0417.
+#### [Task92-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6bd8031af98962663986c6c2ccc7f5651f90985a) Минимум двух чисел # 0418.
+#### [Task93-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1486f44bbdfc08007561a7211fa5d7463dfc64bc) Максимум четырех чисел # 0419.
+#### [Task94-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0a7daa6828906026ab1fda9e1d4bd6997bb60380) Сортировка трех чисел # 0420.
+#### [Task95-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9a3559b53e811c43283509e9150866cc32afb0bf) Настя или Настя? # 0421.
+#### [Task96-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3bb95383798b024720176727f4907cf441179a30) 18+ # 0422.
+#### [Task97-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b82ee22b7af794268eb2911146b04bba517549e5) Фейс-контроль # 0423.
+#### [Task98-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d86c30a5627dd2f3e30e45192a9c665b249f95d0) Три числа # 0424.
+#### [Task99-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e2fbcdad4d172bdd19e4f42ddd9d6039238aef7d) Цель установлена! # 0425.
+#### [Task100-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a890ecce226bc00af1c922e74e825a597fe9eda0) Ярлыки и числа # 0426.
+#### [Task101-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2ddf667901fba256b8b9f1695c7fb338430309b9) Описываем числа # 0427.
+#### [Task102-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9657cc9e08bf5ca53cb346744e355d062599b3f6) Положительное число # 0428.
+#### [Task103-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/36aebd3f748db096bca563639c6476cec0871055) Положительные и отрицательные числа # 0429.
+#### [Task104-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/370fdc69d34080a18b88850b0b246f20aa68eb54) От 1 до 10 # 0430.
+#### [Task105-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f623faffbd0ad84c3d92f938a070c6689e85e379) От 10 до 1 # 0431.
+#### [Task106-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cc2c914041be2d92852cf20011118e372914948d) Хорошего много не бывает # 0432.
+#### [Task107-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3626cb4053f55a7c7b8a889442fcaf72da2ca474) Гадание на долларовый счет # 0433.
+#### [Task108-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7e315fc2a8a0f89c844ebb57ad5001da101c90cc) Таблица умножения # 0434.
+#### [Task109-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c30aa7e84b2c571310ded7b1727120a18cfc6f24) Четные числа # 0435.
+#### [Task110-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/07ce2d67221755a5e0666b0e5e22c5ed3f615c5b) Рисуем прямоугольник # 0436.
+#### [Task111-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b85b42ce2e71b03a12542980e25e83f2e42e83d2) Треугольник из восьмерок # 0437.
+#### [Task112-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b3ba22f11a84aaf1ca12d9f923b01ab53cdea1bd) Рисуем линии # 0438.
+#### [Task113-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/139e738760c606d878271123f5e67dd45c19f4fd) Письмо счастья # 0439.
+#### [Task114-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fe2ade2f67cd4845f87bd4953049bd5f10c82704) Достойная оплата труда # 0440.
+#### [Task115-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4771503fa34c2c8681ea5cbe8cfeccbf8a9b094b) Как-то средненько # 0441.
+#### [Task116-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/889c9ca23e6a5f3859d53e868a543cc66e21e887) Суммирование # 0442.
+#### [Task117-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4108bbce93e8e1aa7068c0e67880cfbf22220ee4) Как назвали, так назвали # 0443.
+_______________________________________________________________
+### Level#5 Знакомство с классами. Написание своих классов. Конструкторы:
+#### [Task118-->]()
+#### [Task119-->]()
+#### [Task120-->]()
