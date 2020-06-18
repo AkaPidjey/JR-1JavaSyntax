@@ -131,6 +131,38 @@ _______________________________________________________________
 #### [Task117-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4108bbce93e8e1aa7068c0e67880cfbf22220ee4) Как назвали, так назвали # 0443.
 _______________________________________________________________
 ### Level#5 Знакомство с классами. Написание своих классов. Конструкторы:
-#### [Task118-->]()
-#### [Task119-->]()
-#### [Task120-->]()
+#### [Task118-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/772985619163ed199d62a399d001810ac5335267) Создание кота # 0501.
+#### [Task119-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b9f9d83009c78491c80c5560b63ee87e83f8419e) Реализовать метод fight # 0502.
+#### [Task120-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a687974d247ae1b09c86f642d9cf4a497f224ee3) Геттеры и сеттеры для класса Dog # 0503.
+#### [Task121-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c11beb420953e02403318f1e97998b4d875a1440) Трикотаж # 0504.
+#### [Task122-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2790484f4969406e0f872234d691b33880a752d3) Кошачья бойня # 0505.
+#### [Task123-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/721b4b16c37a062ce1077b20deee6658a62ff3c6) Человечки # 0506.
+#### [Task124-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1429deb83a3a844df624d1dcb22fb35dd3901518) Среднее арифметическое # 0507.
+#### [Task125-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ca7da0de12c07a274b0aa41517b95e1bb46dc8aa) Геттеры и сеттеры для класса Person # 0508.
+#### [Task126-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/23833e68442f437ad5dcd44502c9a467b0faaf1b) Создать класс Friend # 0509.
+#### [Task127-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c6af988fabc983ad852ed8eda9c975d8c65bef86) Кошкоинициация # 0510.
+#### [Task128-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/00072379829cd5475da5697b9a0c2514aeb7bcc8) Создать класс Dog # 0511.
+#### [Task129-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1e314f079c58f88b78d212b44716ac6df1b57648) Создать класс Circle # 0512.
+#### [Task130-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fa05f24d86edf9bd4e1579f3a5cf8f1a5222447c) Собираем прямоугольник # 0513.
+#### [Task131-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5f61e0ad229b577b5d1c641e49801d8763f39b56) Программист создает человека # 0514.
+#### [Task132-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e1660f552e8bd0f8a0849a91b4d70814180491cf) Инициализация объектов # 0515.
+#### [Task133-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cc183cd2aa169513a857ef6bc4cd8cc7f7a5111b) Друзей не купишь # 0516.
+#### [Task134-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2d4835c12db1c422f5095f30d5f110f5984cb856) Конструируем котиков # 0517.
+#### [Task135-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/46c237af7dc5cd2c20b6326e7af119c483e11480) Регистрируем собачек # 0518.
+#### [Task136-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e12746102c41d0728a5210c53b2aa960d40ca7cc) Ходим по кругу # 0519.
+#### [Task137-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9b362f3658de670489a0047b181ae925ffa26b0c) Создать класс прямоугольник (Rectangle) # 0520.
+#### [Task138-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b67296a8186d4ee4ef3af7a2fb291d3f0b8d6e1e) Вызов конструктора из конструктора # 0521.
+#### [Task139-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/71632c180bccbfd74c3be47e5ee3ae029e88105d) Максимум конструкторов # 0522.
+#### [Task140-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f963e3aa17cc289dc3ed426133474e64d3be701f) Конструктор # 0523.
+#### [Task141-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2416a32a4da58b10061cf9fd61367f668f75e1ac) Основа колеса # 0524.
+#### [Task142-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6c8f080e52660186ed80062392e710deb16508e1) И целой утки мало # 0525.
+#### [Task143-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/bdb6bae519edc7018d7ec9b0ffcaeaa2f02545ce) Мужчина и женщина # 0526.
+#### [Task144-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/21c81dd6a5130513762ea9803f6ddc9bdd596aac) Том и Джерри # 0527.
+#### [Task145-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/88b651731a5f7e3db19ed8abbe36bab2a8423f1e) Вывести на экран сегодняшнюю дату # 0528.
+#### [Task146-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/bf846142966906bf59f480621f2777c0858045e6) Консоль-копилка # 0529.
+#### [Task147-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3855f2549af446ca1b9d4fd45f34ef5233797d51) Шеф, что-то не пашет # 0530.
+#### [Task148-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/aa4667d8a2d696d8bf45016153bcd57c62d55289) Совершенствуем функциональность # 0531.
+#### [Task149-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/eca018b92f20b6c42340c834fa64cc8fd1606a7c) Задача по алгоритмам # 0532.
+_______________________________________________________________
+### Level#6 Знакомство с объектами. Написание своих объектов, время жизни, статические переменные:
+#### [Task150-->]()
