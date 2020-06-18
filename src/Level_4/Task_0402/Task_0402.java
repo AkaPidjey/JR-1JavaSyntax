@@ -1,4 +1,4 @@
-package Level_4;
+package Level_4.Task_0402;
 
 /**
  * Title - Цена яблок # 0402.
