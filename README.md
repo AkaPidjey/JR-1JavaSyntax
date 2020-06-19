@@ -165,4 +165,36 @@ _______________________________________________________________
 #### [Task149-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/eca018b92f20b6c42340c834fa64cc8fd1606a7c) Задача по алгоритмам # 0532.
 _______________________________________________________________
 ### Level#6 Знакомство с объектами. Написание своих объектов, время жизни, статические переменные:
-#### [Task150-->]()
+#### [Task150-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d34b79f8e0e08a7f578be185ca44acedc228efc9) Метод finalize класса Cat # 0601.
+#### [Task151-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a428bc91bb59c7444b7b71a08a86216bc3e4c24a) Пустые кошки, пустые псы # 0602.
+#### [Task152-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a7161af7a7e2b0374ba71e4f6d1aa40cbabf21a8) По 50 000 объектов Cat и Dog # 0603.
+#### [Task153-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2c3f418e8fc7fc1950d0bbd2782181560fae13a7) Ставим котов на счётчик # 0604.
+#### [Task154-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3e2cfd508da15104a7967a00e99c4c6b1ffe0119) Контролируем массу тела # 0605.
+#### [Task155-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c02db10db762deddfafeba1657de60e201a22749) Чётные и нечётные циферки # 0606.
+#### [Task156-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2d00ae52b1757f33a81f4f7e172d4c97b3c53387) Классовый счетчик # 0607.
+#### [Task157-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8e6626df7cfa15566e9961b9c794c9c8d660fae9) Статические методы для кошек # 0608.
+#### [Task158-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/90225907e9ad221d22957a0442c0193e4bd0b0f3) Расстояние между двумя точками # 0609.
+#### [Task159-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4cd425592018a34edce77b35c5c4e9e476bd1a05) Класс ConsoleReader # 0610.
+#### [Task160-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ea7e950dffe27a8c4b8c95d4e8944aecb960b4a6) Класс StringHelper # 0611.
+#### [Task161-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b8e798b9d7ed97c36131ffa738a60d0b909c2d3b) Калькулятор # 0612.
+#### [Task162-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5f36493d1d1f1fb5d42cfa7f92538e55d7aa054f) Кот и статика # 0613.
+#### [Task163-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/709d90b51a6047869d63e219cd263e9b90fb2f1b) Статические коты # 0614.
+#### [Task164-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/537d4fb46a3bad801519149f165f8d3cdcf79d37) Феншуй и статики # 0615.
+#### [Task165-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/aa9f45e89ab3b7ab5b41c0dd4abb8f9fab2a666a) Минимальное число статиков # 0616.
+#### [Task166-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e349bfc30016aa3fc4072b3b61fc29cc71208b79) Блокнот для новых идей # 0617.
+#### [Task167-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0d6194fbe40dab3a18fb6a1ff707d0bb4effd360) KissMyShinyMetalAss # 0618.
+#### [Task168-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/df3178eeedc902748caba70d50b02bb9e87d958f) Три статические переменные name # 0619.
+#### [Task169-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cb58870ce45aaf7e1104b83a310fd12b91e05c19) Исправляем ошибки юности # 0620.
+#### [Task170-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e73229c7c1c8d81f69b1362e1b62c6b4e7b69cf7) Родственные связи кошек # 0621.
+#### [Task171-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/286ca010dd871de2335f189323cd16c2c10de333) Числа по возрастанию # 0622.
+_______________________________________________________________
+### Level#7 Массивы и списки Array, ArrayList. Знакомство с Generics :
+#### [Task172-->]()
+#### [Task173-->]()
+#### [Task174-->]()
+#### [Task175-->]()
+#### [Task176-->]()
+#### [Task177-->]()
+#### [Task178-->]()
+#### [Task179-->]()
+#### [Task180-->]()
