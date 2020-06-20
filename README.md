@@ -189,12 +189,44 @@ _______________________________________________________________
 #### [Task171-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/286ca010dd871de2335f189323cd16c2c10de333) Числа по возрастанию # 0622.
 _______________________________________________________________
 ### Level#7 Массивы и списки Array, ArrayList. Знакомство с Generics :
-#### [Task172-->]()
-#### [Task173-->]()
-#### [Task174-->]()
-#### [Task175-->]()
-#### [Task176-->]()
-#### [Task177-->]()
-#### [Task178-->]()
-#### [Task179-->]()
-#### [Task180-->]()
+#### [Task172-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/eaea869e121caa859fc6bc3f1c016f5259d4be65) Массивный максимум # 0701.
+#### [Task173-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c46af97c3078727e908d5a5ed9975a94ef15ab90) Массив из строчек в обратном порядке # 0702.
+#### [Task174-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/648a199b2ac0ceadcf2f5026ceab05da4a2f2aee) Общение одиноких массивов # 0703.
+#### [Task175-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8345ebd778d9d7679d430eb7c2fe9299c34fbee9) Переверни массив # 0704.
+#### [Task176-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0bf911626cfacc5ea845ce698ca9431610c9cb88) Один большой массив и два маленьких # 0705.
+#### [Task177-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cd251b26e80704aa5d56a39571c8381f215e99d4) Улицы и дома # 0706.
+#### [Task178-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d9a9cdc19edd5096403ced055fbdc5cca32c0a37) Что за список такой? # 0707.
+#### [Task179-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b09314652b6e5693f698c1ca8261ed756f072239) Самая длинная строка # 0708.
+#### [Task180-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b34c9b52acfdfa318ff465a9d96edc48beb07007) Выражаемся покороче # 0709.
+#### [Task181-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/af884be1bb6b5293b340499e83578f029e6d746c) В начало списка # 0710.
+#### [Task182-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7ff340c3ad9c411e48f8d95f291811f642d77d81) Удалить и вставить # 0711.
+#### [Task183-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/12fdd64c4c1df3d8daa67f48edf8d074f6a8c03f) Самые-самые # 0712.
+#### [Task184-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/07130837c712d5d66dcadd5fd3a49f8139c0971e) Играем в Jолушку # 0713.
+#### [Task185-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/63640a494657698e5c7dc090836d13cc1daf0c67) Слова в обратном порядке # 0714.
+#### [Task186-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9303c8c0b35b158289f46a651dfe6bf1f142c640) Продолжаем мыть раму # 0715.
+#### [Task187-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7427eeeb95a44b39a0496e2c1eb55fdd86d96f38) Р или Л # 0716.
+#### [Task188-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2ab0073da5cd535e430fe643a8e7a207c915d9ad) Удваиваем слова # 0717.
+#### [Task189-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/eef799e3030f80e5a4f47fc5b660084f4b86af49) Проверка на упорядоченность # 0718.
+#### [Task190-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1ca1e08aa227dbd8fd9c50fc18bc408a43e09187) Вывести числа в обратном порядке # 0719.
+#### [Task191-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/33543278a078b7731f73fa10c2304e2ce8abbc55) Перестановочка подоспела # 0720.
+#### [Task192-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a206cc71d4d854606a8bf39f863ff49518359953) Минимаксы в массивах # 0721.
+#### [Task193-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/27e589418328aaad1a517786b2924abe48e27337) Это конец # 0722.
+#### [Task194-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/40a19404ce987af31b6ff18f6020c6cd94b09a6f) Обратный отсчёт # 0723.
+#### [Task195-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f3b8fde11ac79a1fb48a73ee274640f661cff906) Семейная перепись # 0724.
+#### [Task196-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/278d80c4accf0b75b82a38ff7ba23742bd720b2a) Переставь один модификатор static # 0725.
+#### [Task197-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cddac76b4f91dfd63943011c917f2081545af996) Не компилируется задача про котиков # 0726.
+#### [Task198-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b6b8a0c23654caa59b57aeba65a6ef4687cee574) Меняем функциональность # 0727.
+#### [Task199-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9190b0fdab5a00dea793af4a640dd1307f2ac1f4) В убывающем порядке # 0728.
+_______________________________________________________________
+### Level#8 Коллекции. linkedList, HashSet, HashMap. Date :
+#### [Task200-->]()
+#### [Task201-->]()
+#### [Task202-->]()
+#### [Task203-->]()
+#### [Task204-->]()
+#### [Task205-->]()
+#### [Task206-->]()
+#### [Task207-->]()
+#### [Task208-->]()
+#### [Task209-->]()
+#### [Task210-->]()
