@@ -219,14 +219,39 @@ _______________________________________________________________
 #### [Task199-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9190b0fdab5a00dea793af4a640dd1307f2ac1f4) В убывающем порядке # 0728.
 _______________________________________________________________
 ### Level#8 Коллекции. linkedList, HashSet, HashMap. Date :
-#### [Task200-->]()
-#### [Task201-->]()
-#### [Task202-->]()
-#### [Task203-->]()
-#### [Task204-->]()
-#### [Task205-->]()
-#### [Task206-->]()
-#### [Task207-->]()
-#### [Task208-->]()
-#### [Task209-->]()
-#### [Task210-->]()
+#### [Task200-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ee764efb24bac59c59b61d9f299c2f7625d68736) Set из растений # 0801.
+#### [Task201-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4737e2dce8aca718826fd525c1da633d71e7a12d) Map из 10 пар # 0802.
+#### [Task202-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/661d329518e435d8ebabbfc605f9bce01fcee2c4) Коллекция Map из котов # 0803.
+#### [Task203-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f9b343765fc2e138abc9e9b5467d157c8f96147d) Вывести на экран список ключей # 0804.
+#### [Task204-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ee1a77eb99612e9d05c6a27dfb086a9d84ea3de0) На экране — значения! # 0805.
+#### [Task205-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f70007ab34548cab2b7409798a95b8d579381e91) Коллекция Map из Object # 0806.
+#### [Task206-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ebfba48047d4be62c5102d2c0e287da49a0f0c08) LinkedList и ArrayList # 0807.
+#### [Task207-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/51b54ddde1e7b830ddfa543de6cab42aa1a07ae8) 10 тысяч удалений и вставок # 0808.
+#### [Task208-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1b36e1fa4d2eb462847ed701a73a1021804e20d2) Время для 10 тысяч вставок # 0809.
+#### [Task209-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fa8f8dc3c9270dc5fd956e9ba0b6dc64e6ed1dcb) Время для 10 тысяч вызовов get # 0810.
+#### [Task210-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/afef1cba62904e33005fc1826422fedce2349380) Квартет «Методы» # 0811.
+#### [Task211-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6fb3bcf6da2df4474cfa63e154bc1053d5a8c98a) Cамая длинная последовательность # 0812.
+#### [Task212-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/83e619d6c58c4d3d3c5f0b57e7126a0d7541d0d3) 20 слов на букву «Л» # 0813.
+#### [Task213-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1bc2a2f2cdaf145a40e535f8a3ac8fd258e84b18) Больше 10? Вы нам не подходите # 0814.
+#### [Task214-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1a8f271993c8f6d0b5314d90302b435bd016659c) Перепись населения # 0815.
+#### [Task215-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/ef11f699c383d4fc3ee25993d16df4f9c2eac46b) Добрая Зинаида и летние каникулы # 0816.
+#### [Task216-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6df68610449606175ac03dc6359d5f5e919d655e) Нам повторы не нужны # 0817.
+#### [Task217-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/46f47326f8dc603df5325469d10f2019b670b330) Только для богачей # 0818.
+#### [Task218-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e16be0f76ae616c789d66121799faf07673a423b) Set из котов # 0819.
+#### [Task219-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/dad546ac6ecd607d1027ce5ea296a0f4c07c2b70) Множество всех животных # 0820.
+#### [Task220-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/81071aa43448e44e6ea96b0955f4e84091daf322) Однофамильцы и тёзки # 0821.
+#### [Task221-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b138837fa34a00d0f6b07cb3474d84a2defc2099) Минимальное из N чисел # 0822.
+#### [Task222-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/e29094efc0ed59e39400f9a6d93ab0f9e9490658) Омовение Рамы # 0823.
+#### [Task223-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7ce3675dd9ffc81b9d0c8ae05a28b7c015c72a67) Собираем семейство # 0824.
+#### [Task224-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5947de3ac5b1320f98e05301652018f8f24b43a6) Модификатор запутался # 0825.
+#### [Task225-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/b3c1dcb5d5d92274356ccf7604793045f396b91d) Пять победителей # 0826.
+#### [Task226-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/caa897ed5f5e419376fe440b4cfcdbce3094ee58) Работа с датой # 0827.
+#### [Task227-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d0358bddc4c4027255d48d2e40ec9ce5fe484f2e) Номер месяца # 0828.
+#### [Task228-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8a3dc9a37d8eaacf626270f4679e7421ff72d4b9) Модернизация ПО # 0829.
+#### [Task229-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/407e8fd9d149e16c197eeee1428e094f26a2f3e1) Задача по алгоритмам # 0830.
+_______________________________________________________________
+### Level#9 Знакомство с исключениями. Try, catch, throws, multy-catch :
+#### [Task230-->]()
+
+_______________________________________________________________
+### Level#10 Приведение примитивных типов. Расширение и сужение :
