@@ -251,7 +251,36 @@ _______________________________________________________________
 #### [Task229-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/407e8fd9d149e16c197eeee1428e094f26a2f3e1) Задача по алгоритмам # 0830.
 _______________________________________________________________
 ### Level#9 Знакомство с исключениями. Try, catch, throws, multy-catch :
-#### [Task230-->]()
-
+#### [Task230-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0c42874874641070673af3e88ed2206894842f4a) Возвращаем StackTrace # 0901.
+#### [Task231-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/31b5a6d1487c00074fa98967a8ccb2bd33cb76bf) И снова StackTrace # 0902.
+#### [Task232-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cea76a79b94bd617a275e764b636dda6caa76b38) Кто меня вызывал? # 0903.
+#### [Task233-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/8ac367035a42b58b3a770e38b70f0f73fdcb5ac4) Стек-трейс длиной 10 вызовов # 0904.
+#### [Task234-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/75dc01f512d26c20b8eae06666e8b7a1bf113a95) Там, в синих глубинах стек-трейса… # 0905.
+#### [Task235-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cfbd611ac8730ec5f944bc14073ddfc866199a3d) Логирование стек-трейса # 0906.
+#### [Task236-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/56663219ce4aaf159effe603858ea457ca3c2fc0) Исключение при работе с числами # 0907.
+#### [Task237-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1fc8794bcaf347c9e2b4ccf5f0c23a20d8eaa762) Исключение при работе со строками # 0908.
+#### [Task238-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/9b22a0e57232cc372eef3b4e105ac2916d4fd91f) Исключение при работе с массивами # 0909.
+#### [Task239-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2d08d4ed2004cade05c72f955da31c788fd71171) Исключение при работе с коллекциями List # 0910.
+#### [Task240-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f5cd14a93cddbca4282dd436660e68728a5c9850) Исключение при работе с коллекциями Map # 0911.
+#### [Task241-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/0f9acc5296825ca9360d1b364833605c6d8ebfa2) Исключение при работе с числами # 0912.
+#### [Task242-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/deb3c482c78f13084574841137735b21ee3fb485) Исключения. Просто исключения. # 0913.
+#### [Task243-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/163c0257aac7fe2ad7a6ae1bc18d31e019c11ffc) Группа перехвата исключений # 0914.
+#### [Task244-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1804896101814f0afa9a263a6451ac4866697513) Перехват выборочных исключений # 0915.
+#### [Task245-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/71c1517a37bb1cc3f00bb8c80452b916adf66e60) Перехват checked-исключений # 0916.
+#### [Task246-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/de0c21f0b4d8a679b3a05b60e0eaccf41c20f198) Перехват unchecked-исключений# 0917.
+#### [Task247-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/179afa7977ab47a63973f08596d6221b3e35a9a4) Все свои, даже исключения # 0918.
+#### [Task248-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6579067794f1288c9721a9140e0f94617c2e458d) Деление на ноль # 0919.
+#### [Task249-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/914714c6e98b5ffa1e617304c40e9ec2bb1cb6fd) Обратный отсчёт # 0920.
+#### [Task250-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5ecb7d3329ed013534e02379cd429c5884c6b82b) Метод в try..catch # 0921.
+#### [Task251-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/57c0b6e304209a9ae87cf20187a4b9db98f7e407) Какое сегодня число? # 0922.
+#### [Task252-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/6898477b9eebf9bc850ce8791ac7ffefe2cdaca1) Гласные и согласные # 0923.
+#### [Task253-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/1ff75faa6a09807288269141c33f2e0e8d1fb40c) Страшная сказка # 0924.
+#### [Task254-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fbb0691d0ea29b41601623bce9c8df6ee17e2352) Статики не на своем месте # 0925.
+#### [Task255-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/351869b135be29d35e69d745e4ea688fecead3e4) Список из массивов чисел # 0926.
+#### [Task256-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/83097b8320a2ef7ee7880bc7161018c1182a7318) Десять котов # 0927.
+#### [Task257-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7f30fc9b18c5b37e48dd98255657e1c55e7ab576) Код не компилится… # 0928.
+#### [Task258-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/58b419efd142e32f75215dc7d47627d3e9a18197) Обогатим код функциональностью! # 0929.
+#### [Task259-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/aebb6a78b204ce9384852c509c901c9c5f7a3b60) Задача по алгоритмам # 0930.
 _______________________________________________________________
 ### Level#10 Приведение примитивных типов. Расширение и сужение :
+#### [Task260-->]()
