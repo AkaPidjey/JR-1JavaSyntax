@@ -283,4 +283,23 @@ _______________________________________________________________
 #### [Task259-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/aebb6a78b204ce9384852c509c901c9c5f7a3b60) Задача по алгоритмам # 0930.
 _______________________________________________________________
 ### Level#10 Приведение примитивных типов. Расширение и сужение :
-#### [Task260-->]()
+#### [Task260-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/2749a87b74642f7cdcb67ffa821052011d247306) Задача №1 на преобразование целых типов # 1001.
+#### [Task261-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fe35bf3351293fa35816e0af3d868f354870d1f2) Задача №2 на преобразование целых типов # 1002.
+#### [Task262-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c5451c84f7e7725db50e0bad347e3911a0117561) Задача №3 на преобразование целых типов # 1003.
+#### [Task263-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c2ceea0c59bef087ffc2bf74eb359e9aa5e09492) Задача №4 на преобразование целых типов # 1004.
+#### [Task264-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/3129407ed37c4f60dd1b213fc45aafd55ddb1f60) Задача №5 на преобразование целых типов # 1005.
+#### [Task265-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/08cebf5bb9501dcd11b5ffbc708cdee06a45db74) Задача №6 на преобразование целых типов # 1006.
+#### [Task266-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/553763be5e1215af45c45a3ea4ba1a40b5058a84) Задача №7 на преобразование целых типов # 1007.
+#### [Task267-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/c2f46b0f4b270a047c913040304a6d49e794cc80) Правильный ответ: d = 2.941 # 1008.
+#### [Task268-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/42d0b5cd42500d62512b38ff70122ea2e9daab7e) Правильный ответ: d = 5.5 # 1009.
+#### [Task269-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/cca0ca39da2ecfc0f42f8ea565ba03b7888913d8) Правильный ответ: d = 1.0 # 1010.
+#### [Task270-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/89e41b9a6a8dd53867b51da5be55f21e734b3112) Большая зарплата # 1011.
+#### [Task271-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/a54d60150e18c319c50dc23f09caa3b6950f9373) Количество букв # 1012.
+#### [Task272-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f5aab6a039ce2df12f4ea5109eeb5a2952bdefc4) Конструкторы класса Human # 1013.
+#### [Task273-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/4e982b141a3e9f7041cf4cd21077cde67e0114d9) Расставьте минимум static-ов # 1014.
+#### [Task274-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/181fda9f4b7f4c953b16612a822a6ecf95e70148) Массив списков строк # 1015.
+#### [Task275-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/f991e8f7a6ab95722cfe8c435e5f08f00eef0bcc) Одинаковые слова в списке # 1016.
+#### [Task276-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/d36f07561dcb7082bce9616af2c02cff24bceaef) Безопасное извлечение из списка # 1017.
+#### [Task277-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/5d5ff1c6243e7289faf3f7314e0bb6ca4a0beb16) Поправочки нужны # 1018.
+#### [Task278-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/7e7533a8a07d0f69e6d600b5c28557fe34e8dd27) Функциональности маловато! # 1019.
+#### [Task279-->](https://github.com/AkaPidjey/JR-1JavaSyntax/commit/fda30aa696cf7b0bf342747bc1de3ad201b427eb) Задача по алгоритмам # 1020.
